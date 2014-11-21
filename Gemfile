@@ -40,3 +40,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'slim-rails'
 
 gem 'activeadmin', github: 'gregbell/active_admin'
+
+gem 'devise'
